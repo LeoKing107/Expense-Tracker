@@ -1,0 +1,39 @@
+{
+  "expenses": [
+    {
+      "date": "2024-12-31",
+      "amount": 35,
+      "category": "Restaurant",
+      "description": "123123",
+      "id": "1733500733161"
+    },
+    {
+      "date": "2024-03-06",
+      "amount": 45,
+      "category": "Restaurant",
+      "description": "Go",
+      "id": "1733502180321"
+    },
+    {
+      "date": "2020-01-17",
+      "amount": 14,
+      "category": "Restaurant",
+      "description": "234234",
+      "id": "1733503230392"
+    },
+    {
+      "date": "2024-12-27",
+      "amount": 123,
+      "category": "412",
+      "description": "asdasd",
+      "id": "1733507690497"
+    },
+    {
+      "date": "2024-02-11",
+      "amount": 100,
+      "category": "Mute",
+      "description": "ABCD",
+      "id": "1733508721793"
+    }
+  ]
+}
